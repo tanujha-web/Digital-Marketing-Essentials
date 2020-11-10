@@ -1,0 +1,129 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled2.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyOTJowwCsbPNaq2g1mlElko",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/tanujha-web/Digital-Marketing-Essentials/blob/master/tanu%20data%20science\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "3oWcLMP2VNXQ",
+        "outputId": "77631e85-1754-46dd-aa90-17d712a1c80a",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "source": [
+        " #Question 1\n",
+        " \n",
+        "print(\"B) RAINBOW\")"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "B) RAINBOW\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "kG6HoZ8YVTL_",
+        "outputId": "244eb94e-ed45-4d8b-b1c5-66680fa1fe2d",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "source": [
+        " \n",
+        "#Question 2\n",
+        " \n",
+        "word = \"lets upgrade\"\n",
+        "print(word.upper())"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "LETS UPGRADE\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "QMj23DnNWExi",
+        "outputId": "9001979e-b441-45f8-a2ad-2583db07a690",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "source": [
+        " #Question 3\n",
+        " \n",
+        "cost = int(input())\n",
+        "sell = int(input())\n",
+        " \n",
+        "if (cost < sell):\n",
+        "  print(\"Profit\")\n",
+        "elif (cost > sell):\n",
+        "  print(\"Loss\")\n",
+        "else:\n",
+        "  print(\"Neither\")"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "20\n",
+            "30\n",
+            "Profit\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "-woIVW5lWjl7"
+      },
+      "source": [
+        "#Question 4\n",
+        " \n",
+        "rs = int(input())\n",
+        "print(rs/80)"
+      ],
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
